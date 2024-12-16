@@ -1,0 +1,61 @@
+stdClass Object
+(
+    [va_numbers] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [va_number] => 68942316254552501982263
+                    [bank] => bca
+                )
+
+        )
+
+    [transaction_time] => 2024-12-15 02:47:36
+    [transaction_status] => pending
+    [transaction_id] => e677091a-3c83-438e-a684-9c4f8b6f0cc3
+    [status_message] => midtrans payment notification
+    [status_code] => 201
+    [signature_key] => 691f6e18cb3ad48fd40bf71053cdb2d027ecc7df2a1a693a7c69e9161b89d372f48b2aaedc3dfa30dd5f1e844d4016b7d711114a0d5c118a4b0bccd862369ede
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+        )
+
+    [order_id] => 1734205651
+    [merchant_id] => G952668942
+    [gross_amount] => 450000.00
+    [fraud_status] => accept
+    [expiry_time] => 2024-12-16 02:47:36
+    [currency] => IDR
+)
+stdClass Object
+(
+    [va_numbers] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [va_number] => 68942316254552501982263
+                    [bank] => bca
+                )
+
+        )
+
+    [transaction_time] => 2024-12-15 02:47:36
+    [transaction_status] => settlement
+    [transaction_id] => e677091a-3c83-438e-a684-9c4f8b6f0cc3
+    [status_message] => midtrans payment notification
+    [status_code] => 200
+    [signature_key] => b23287f9d077386f6b349b9880ab2dcce172694d59bf7d6e066509122e3da442eb0e4749635aa6c5d0b382588863a56e67bbdb7d18699050cb53d5b8de0504b0
+    [settlement_time] => 2024-12-15 02:47:49
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+        )
+
+    [order_id] => 1734205651
+    [merchant_id] => G952668942
+    [gross_amount] => 450000.00
+    [fraud_status] => accept
+    [expiry_time] => 2024-12-16 02:47:36
+    [currency] => IDR
+)
